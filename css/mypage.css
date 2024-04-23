@@ -1,0 +1,51 @@
+body{
+    background-color:aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    border: 5px solid black;
+    margin: 80px;
+    padding: 100px;
+
+}
+
+h4{
+font-style: italic;
+
+}
+
+.description {
+    font-weight: 75;
+    font-style: italic;
+}
+
+p{
+    font-weight:50;
+    font-size: 15px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+
+
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+li{
+    color:#3b3939;
+}
+
+.common{
+    font-weight: 200;
+}
+
+.mainbody{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
